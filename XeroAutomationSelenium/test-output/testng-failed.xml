@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.testing.XeroAutomationSelenium.TestScriptsXero">
+        <methods>
+          <include name="logoutFuctionality_ID04A" invocation-numbers="12"/>
+          <include name="BeforeTest"/>
+          <include name="addOrganizationTrial_ID08A" invocation-numbers="14"/>
+          <include name="AfterTest"/>
+        </methods>
+      </class> <!-- com.testing.XeroAutomationSelenium.TestScriptsXero -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

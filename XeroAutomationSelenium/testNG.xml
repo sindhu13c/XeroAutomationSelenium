@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="XeroTestSuit">
+	<test name="XeroTest" allow-return-values="true">
+		<classes>
+			<class name="com.testing.XeroAutomationSelenium.TestScriptsXero">
+			</class>
+		</classes>
+	</test>
+</suite>
